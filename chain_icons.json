@@ -1871,6 +1871,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "dmd",
+  "icons": [{
+    "url": "ipfs://bafkreieaev7npoq4zzd3kn352nkbqw3jsh22rf6wqypovpljyx6pb2meom",
+    "width": 640,
+    "height": 640,
+    "format": "svg"
+  }]
+}, {
   "name": "z",
   "icons": [{
     "url": "ipfs://bafybeiech76mp6ro4lo7pyferpovrnvghwb745upatj5h6be4cnav52zwu",
@@ -2831,6 +2839,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mantra",
+  "icons": [{
+    "url": "ipfs://bafkreiftgt747chqsw67a3jyklr52op5rozqmi3qnp4edwjcf2gxabwdnu",
+    "width": 120,
+    "height": 120,
+    "format": "png"
+  }]
+}, {
   "name": "sardis",
   "icons": [{
     "url": "ipfs://QmdR9QJjQEh1mBnf2WbJfehverxiP5RDPWMtEECbDP2rc3",
@@ -3196,6 +3212,14 @@
     "url": "ipfs://QmaNKnYTZRGnhzFyRYeBKwXbPQz6uDPK7PPuPGCMXSNFYW",
     "width": 1140,
     "height": 1140,
+    "format": "svg"
+  }]
+}, {
+  "name": "hpp",
+  "icons": [{
+    "url": "ipfs://QmX5MTCNX4wKb7B9pK6UH7oHGcWj5m8XywhzXqLA7gtVAJ",
+    "width": 400,
+    "height": 400,
     "format": "svg"
   }]
 }, {
@@ -4015,6 +4039,14 @@
     "format": "png"
   }]
 }, {
+  "name": "trustivon",
+  "icons": [{
+    "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt",
+    "width": 1000,
+    "height": 1628,
+    "format": "png"
+  }]
+}, {
   "name": "ventionTestnet",
   "icons": [{
     "url": "ipfs://QmcNepHmbmHW1BZYM3MFqJW4awwhmDqhUPRXXmRnXwg1U4",
@@ -4300,6 +4332,14 @@
     "url": "ipfs://QmZVwsY6HPXScKqZCA9SWNrr4jrQAHkPhVhMWi6Fj1DsrJ",
     "width": 162,
     "height": 129,
+    "format": "png"
+  }]
+}, {
+  "name": "dgram",
+  "icons": [{
+    "url": "ipfs://bafkreic6jo3sppdb653avcqbptpkqsnvhwyblc4kebkn45l5vbhgpxgtl4",
+    "width": 450,
+    "height": 450,
     "format": "png"
   }]
 }, {
@@ -4834,6 +4874,14 @@
     "width": 200,
     "height": 200,
     "format": "png"
+  }]
+}, {
+  "name": "horizen",
+  "icons": [{
+    "url": "ipfs://bafkreiejezmamcywe5jigzopxlpxdp5uvofx3h2jfo5xp34bphf43i4ega",
+    "width": 834,
+    "height": 834,
+    "format": "jpg"
   }]
 }, {
   "name": "conflux",
@@ -5402,6 +5450,14 @@
     "width": 500,
     "height": 500,
     "format": "png"
+  }]
+}, {
+  "name": "jamton",
+  "icons": [{
+    "url": "ipfs://bafkreidaujskyg6vjv2vx33ad7iu2wyvpriigdqatishh6ubkhzbyiyjyi",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
   }]
 }, {
   "name": "qnet",
@@ -6225,6 +6281,14 @@
     "url": "ipfs://QmXBm2hTGzFeYT5YYixzRnTdPNWnkNUaT1bBL3LYD4QvUk",
     "width": 100,
     "height": 100,
+    "format": "png"
+  }]
+}, {
+  "name": "apollo",
+  "icons": [{
+    "url": "ipfs://bafkreiblhmgzou3p7n6cp2jb3huqzctb5ax4tnkuf4azyf7djzrsqn4fua",
+    "width": 120,
+    "height": 120,
     "format": "png"
   }]
 }, {
@@ -7428,6 +7492,14 @@
     "format": "png"
   }]
 }, {
+  "name": "h2",
+  "icons": [{
+    "url": "ipfs://bafkreiehobxmonxuwg3wukea4ixbixap7imzk4yuiidyejzpvgdylok4ua",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "hyperagi",
   "icons": [{
     "url": "ipfs://bafkreihl6c22tj2cmo3ngsswaa42y2pnbhqwvo4pb4ktia6dasl6sldosi",
@@ -7682,6 +7754,14 @@
     "width": 512,
     "height": 512,
     "format": "svg"
+  }]
+}, {
+  "name": "tempo",
+  "icons": [{
+    "url": "ipfs://bafkreignxbz2mjbwv6sqbjndkxhi423j7yyk3qlfdfnzclcmq4uklxdgza",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "altb",
@@ -8268,6 +8348,14 @@
     "format": "png"
   }]
 }, {
+  "name": "alphachain",
+  "icons": [{
+    "url": "ipfs://bafkreihesy252ozceffnjmgv5pw72yddwnn2zmnmh627xwxnvxb6wfyekm",
+    "width": 60,
+    "height": 60,
+    "format": "svg"
+  }]
+}, {
   "name": "omni",
   "icons": [{
     "url": "ipfs://QmdCMVucuZJpMqSn3xSWCU3io5ftRAwtzAqTd8QXLQEaos",
@@ -8572,6 +8660,14 @@
     "format": "png"
   }]
 }, {
+  "name": "hpx",
+  "icons": [{
+    "url": "ipfs://bafkreihip3cdp4p2ggts3djq3wzyb2danm6oi6vdavdat2na4t46qmwsia",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "reichain",
   "icons": [{
     "url": "ipfs://QmNy5d5knHVjJJS9g4kLsh9i73RTjckpKL6KZvRk6ptbhf",
@@ -8642,6 +8738,14 @@
     "width": 400,
     "height": 400,
     "format": "png"
+  }]
+}, {
+  "name": "ault",
+  "icons": [{
+    "url": "ipfs://QmR65pFw3pgcCDeZJ5SHiXPKPjKyLEZZez2cEQZNssR2zd",
+    "width": 32,
+    "height": 32,
+    "format": "svg"
   }]
 }, {
   "name": "delaTestnet",
